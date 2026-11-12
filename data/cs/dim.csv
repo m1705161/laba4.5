@@ -1,0 +1,6 @@
+id,name,status,owner
+S-01,api-gateway-01,active,Команда Бэкенд
+S-02,db-primary-01,active,Команда Данных
+S-03,ml-gpu-01,active,Команда ML
+S-04,web-02,maintenance,Команда Бэкенд
+S-05,legacy-01,decommissioned,Команда Инфра
